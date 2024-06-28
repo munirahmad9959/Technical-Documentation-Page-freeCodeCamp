@@ -101,4 +101,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## References
 
-All the documentation on this page is taken from MDN.
+All the documentation on this page is taken from [MDN](https://developer.mozilla.org/).
