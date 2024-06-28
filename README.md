@@ -14,11 +14,12 @@
 11. [If...else Statement](#if-else-statement)
 12. [While Statement](#while-statement)
 13. [Function Declaration](#function-declaration)
-14. [References](#references)
-15. [Setup](#setup)
-16. [Features](#features)
-17. [Technologies Used](#technologies-used)
-18. [License](#license)
+14. [Live Demo](#live-demo)
+15. [References](#references)
+16. [Setup](#setup)
+17. [Features](#features)
+18. [Technologies Used](#technologies-used)
+19. [License](#license)
 
 ## Introduction
 JavaScript is a cross-platform, object-oriented scripting language.
@@ -82,6 +83,10 @@ A function definition (also called a function declaration, or function statement
 
 To view the page, simply open the `index.html` file in a web browser. The CSS and JavaScript files are linked in the HTML file and will apply the necessary styles and functionality.
 
+## Live Demo
+
+Check out the live demo of the app [here](https://munirahmad9959.github.io/Technical-Documentation-Page-freeCodeCamp/).
+
 ## Features
 
 - Responsive design for various screen sizes.
@@ -102,3 +107,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## References
 
 All the documentation on this page is taken from [MDN](https://developer.mozilla.org/).
+
